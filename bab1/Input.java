@@ -1,5 +1,3 @@
-package com.nathakusuma.prakpemdas.bab1;
-
 import java.util.Scanner;
 
 public class Input {

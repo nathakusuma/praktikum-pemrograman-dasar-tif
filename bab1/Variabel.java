@@ -1,6 +1,3 @@
-package com.nathakusuma.prakpemdas.bab1;
-
-// Terdapat pelanggaran konvensi
 public class Variabel {
     public static void main(String[] args) {
         int nilai = 10;
