@@ -1,3 +1,5 @@
+// Terdapat pelanggaran konvensi
+
 public class Variabel {
     public static void main(String[] args) {
         int nilai = 10;
