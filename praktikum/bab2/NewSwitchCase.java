@@ -4,6 +4,7 @@ public class NewSwitchCase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String predikat = scanner.next();
+
         switch (predikat.toUpperCase()) {
             case "A" -> {
                 System.out.println("Excellent!");
@@ -24,5 +25,11 @@ public class NewSwitchCase {
                 System.out.println("Invalid predikat");
             }
         }
+
+        /*
+         * Berbeda dengan switch case lama, switch case baru tidak memerlukan break,
+         * sehingga hanya akan mengeksekusi statement pada case nya saja tanpa mengalir
+         * ke case lain.
+         */
     }
 }

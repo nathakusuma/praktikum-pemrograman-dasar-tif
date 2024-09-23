@@ -4,6 +4,7 @@ public class OldSwitchCase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String predikat = scanner.next();
+
         switch (predikat.toUpperCase()) {
             case "A":
                 System.out.println("Excellent!");
@@ -23,5 +24,10 @@ public class OldSwitchCase {
             default:
                 System.out.println("Invalid predikat");
         }
+
+        /*
+         * Apabila tidak ada break pada switch case, maka eksekusi akan langsung
+         * dilanjut pada case berikutnya setelah salah satu case terpenuhi.
+         */
     }
 }
