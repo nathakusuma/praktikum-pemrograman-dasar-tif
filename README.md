@@ -7,5 +7,7 @@ Repository source code modul praktikum dan slide ppt pemrograman dasar teknik in
   - [Bab 2 (Seleksi Kondisi)](https://github.com/nathakusuma/praktikum-pemrograman-dasar-tif/tree/main/modul/bab1)
 - [Source Code PPT Praktikum](https://github.com/nathakusuma/praktikum-pemrograman-dasar-tif/tree/main/praktikum)
   - [Bab 1 (Input, Output, Proses)](https://github.com/nathakusuma/praktikum-pemrograman-dasar-tif/tree/main/praktikum/bab1)
+  - [Bab 2 (Seleksi Kondisi)](https://github.com/nathakusuma/praktikum-pemrograman-dasar-tif/tree/main/praktikum/bab2)
+  - [Bab 3 (Pengulangan)](https://github.com/nathakusuma/praktikum-pemrograman-dasar-tif/tree/main/praktikum/bab3)
  
 **Made with ❤️ by Tim Asisten Praktikum Teknik Informatika 2024**
