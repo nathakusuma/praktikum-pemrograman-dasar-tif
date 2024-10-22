@@ -38,6 +38,7 @@ public class Array1D {
         // print setiap elemen array
         for (int i = 0; i < nilaiAkhir.length; i++) {
             System.out.print(nilaiAkhir[i] + " ");
-       } 
+        }
+        System.out.println();
     }
 }
