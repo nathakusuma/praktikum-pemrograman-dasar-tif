@@ -17,7 +17,7 @@ public class DoWhile {
         // konstanta PI untuk menghitung luas lingkaran
         final double PI = 3.14;
 
-        // inisialisasi jari-jari dengan variable r
+        // deklarasi jari-jari dengan variable r
         double r;
 
         // program akan menjalankan bagian do setidaknya satu kali
