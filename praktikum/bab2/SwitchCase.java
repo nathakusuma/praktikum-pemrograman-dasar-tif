@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class OldSwitchCase {
+public class SwitchCase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String predikat = scanner.next();
 
-        switch (predikat.toUpperCase()) {
+        switch (predikat.toUpperCase()) {// "A"
             case "A":
                 System.out.println("Excellent!");
                 break;

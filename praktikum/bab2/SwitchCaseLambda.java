@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class NewSwitchCase {
+public class SwitchCaseLambda {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String predikat = scanner.next();
 
-        switch (predikat.toUpperCase()) {
+        switch (predikat) {
             case "A" -> {
                 System.out.println("Excellent!");
             }
@@ -27,9 +27,8 @@ public class NewSwitchCase {
         }
 
         /*
-         * Berbeda dengan switch case lama, switch case baru tidak memerlukan break,
-         * sehingga hanya akan mengeksekusi statement pada case nya saja tanpa mengalir
-         * ke case lain.
+         * Switch case lambda tidak memerlukan break, sehingga hanya akan mengeksekusi
+         * statement pada case nya saja tanpa mengalir ke case lain.
          */
     }
 }
