@@ -49,7 +49,7 @@ public class Extras {
         // perulangan
         System.out.println("Menggunakan loop standar:");
         for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]); // Output: 1 2 3
+            System.out.println(arr[i]);
         }
 
         // foreach
@@ -60,16 +60,16 @@ public class Extras {
 
         // math extras
         // cari nilai maximum dan minimum
-        System.out.println("Nilai maksimum antara 5 dan 10: " + Math.max(5, 10)); // Output: 10
-        System.out.println("Nilai minimum antara 5 dan 10: " + Math.min(5, 10)); // Output: 5
+        System.out.println("Nilai maksimum antara 5 dan 10: " + Math.max(5, 10));
+        System.out.println("Nilai minimum antara 5 dan 10: " + Math.min(5, 10));
 
         // cari nilai absolute (positif)
-        System.out.println("Nilai absolut dari -10: " + Math.abs(-10)); // Output: 10
+        System.out.println("Nilai absolut dari -10: " + Math.abs(-10)); 
 
         // cari akar kuadrat
-        System.out.println("Akar kuadrat dari 16: " + Math.sqrt(16)); // Output: 4.0
+        System.out.println("Akar kuadrat dari 16: " + Math.sqrt(16));
 
         // get nilai acak antara 0.0 dan 1.0
-        System.out.println("Nilai acak: " + Math.random()); // Output: 0.645...
+        System.out.println("Nilai acak: " + Math.random());
     }
 }
