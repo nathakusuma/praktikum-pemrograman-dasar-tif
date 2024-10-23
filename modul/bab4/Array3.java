@@ -1,5 +1,3 @@
-// Terdapat pelanggaran konvensi
-
 public class Array3{
     public static void main(String args[]) {
         int a[] = {2,7,6,8,1};
@@ -18,3 +16,7 @@ public class Array3{
         }
     }
 }
+
+/* Notes
+ * Terdapat pelanggaran konvensi
+ */

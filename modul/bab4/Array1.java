@@ -1,5 +1,3 @@
-// Terdapat pelanggaran konvensi
-
 public class Array1{
     public static void main(String args[]) {
         int bil[]=new int[10];
@@ -12,3 +10,7 @@ public class Array1{
         }
     }
 }
+
+/* Notes: 
+ * Terdapat pelanggaran konvensi
+ */

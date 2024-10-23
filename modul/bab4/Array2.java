@@ -1,6 +1,3 @@
-// Terdapat kesalahan
-// Terdapat pelanggaran konvensi
-
 public class Array2{
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
@@ -25,3 +22,8 @@ public class Array2{
         }
     }
 }
+
+/* Note:
+ * Terdapat kesalahan
+ * Terdapat pelanggaran konvensi
+ */
