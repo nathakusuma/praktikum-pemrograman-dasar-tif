@@ -21,10 +21,10 @@ public class Prak_retval {
         jur2 = in.nextLine();
         System.out.println("Data Mahasiswa : ");
         System.out.println(showData(nim1, nama1, jur1));
-        System.out.println(showData(nim1, nama2, jur2));
+        System.out.println(showData(nim2, nama2, jur2));
     }
 
-    public String showData(String nim, String nama, String jurusan) {
+    public static String showData(String nim, String nama, String jurusan) {
         String show = "\nnim : \n" + nim + "\nnama : \n" + nama + "\nJurusan : \n" + jurusan;
         return show;
     }
